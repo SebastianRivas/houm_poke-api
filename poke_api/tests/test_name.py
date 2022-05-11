@@ -1,6 +1,6 @@
 import pytest
 
-import pokemon.poke_api.src.pokemon_name.name as poke_name
+import src.pokemon_name.name as poke_name
 
 
 def test_function():

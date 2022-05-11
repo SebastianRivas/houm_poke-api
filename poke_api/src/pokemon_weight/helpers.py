@@ -1,4 +1,4 @@
-from pokemon.poke_api.common.api_utils import *
+from common.api_utils import *
 
 
 def weight_range(response_json):

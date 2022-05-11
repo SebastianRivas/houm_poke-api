@@ -1,6 +1,6 @@
 import pytest
 
-import pokemon.poke_api.src.pokemon_procreate.procreate as poke_procreate
+import src.pokemon_procreate.procreate as poke_procreate
 
 
 def test_function():

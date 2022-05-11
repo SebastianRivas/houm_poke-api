@@ -1,6 +1,6 @@
 import pytest
 
-import pokemon.poke_api.src.pokemon_weight.weight as poke_weight
+import src.pokemon_weight.weight as poke_weight
 
 
 def test_function():
